@@ -1,4 +1,4 @@
-<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/b52dd5fe-7bdc-4dfa-9f87-e11e70bfaa33" /># 🌦️ Weather App using API
+# 🌦️ Weather App using API
 
 A simple weather application built with **HTML, CSS, and JavaScript** that fetches real-time weather data from a public weather API and displays it in a user-friendly dashboard.
 
@@ -21,8 +21,7 @@ A simple weather application built with **HTML, CSS, and JavaScript** that fetch
 ---
 
 ## 📷 Screenshots
-(Add screenshots of your app here)
-
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/b52dd5fe-7bdc-4dfa-9f87-e11e70bfaa33" />
 ---
 
 ## ⚙️ Installation & Setup
